@@ -23,6 +23,4 @@ Integration engineer. I design multi-tenant APIs on AWS: one shared API, one rol
 - **VPC endpoints.** Private access to SQS and S3. Resource policies require `aws:SourceVpce`.
 - **Multi-tenant design.** One shared API, one role per tenant, shared stacks with per-customer parameters.
 
-## Selected work
 
-Public samples will be linked here. Customer systems stay in their private repositories.
